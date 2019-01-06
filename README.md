@@ -43,7 +43,7 @@ Portfolio Inflation Adjusted Values from Simulation
 To test your results create an account with Personal Capital, add a manual portfolio and go to Investment Checkup and compare your results.
 
 
-### Installing and Running
+## Installing and Running
 
 Download the application to local and make sure you have gradle installed on your local. From the home directory of the application, run following command
 
@@ -60,4 +60,9 @@ End with an example of getting some data out of the system or using it for a lit
 ## Sample Application is running on AWS-EC2
 
 [http://ec2-34-218-237-206.us-west-2.compute.amazonaws.com:8080/simulation](http://ec2-34-218-237-206.us-west-2.compute.amazonaws.com:8080/simulation)
+
+## Open Items
+
+* All variables need to be added to the property files
+* Write test with boundaries
 
