@@ -55,8 +55,6 @@ Once you see the application is running locally, go to the following address in 
 
 [http://localhost:8080/simulation](http://localhost:8080/simulation)
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Sample Application is running on AWS-EC2
 
 [http://ec2-34-218-237-206.us-west-2.compute.amazonaws.com:8080/simulation](http://ec2-34-218-237-206.us-west-2.compute.amazonaws.com:8080/simulation)
