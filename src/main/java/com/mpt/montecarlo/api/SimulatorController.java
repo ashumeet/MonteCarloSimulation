@@ -16,7 +16,7 @@ public class SimulatorController {
     PortfolioSimulatorService portfolioSimulatorService;
 
     @RequestMapping("/simulation")
-    public HashMap<String, HashMap<String, String>> greeting() {
+    public HashMap<String, HashMap<String, String>> simulation() {
         return portfolioSimulatorService.simulationReturn();
     }
 }
